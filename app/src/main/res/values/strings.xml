@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Android Messaging</string>
+
+    <!-- Universal -->
+    <string name="action_logout">Logout</string>
+
+    <!-- Parse -->
+    <string name="parse_application_id">Your Parse application ID</string>
+    <string name="parse_client_id">Your Parse client ID</string>
+
+    <!-- PubNub -->
+    <string name="pubnub_publish_key">Your Pubnub Publish Key</string>
+    <string name="pubnub_subscribe_key">Your Pubnub Subscribe Key</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Login Activity -->
+    <string name="password_hint">Password</string>
+    <string name="user_name">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="title_activity_messaging">Messaging</string>
+
+    <!-- Messaging Activity -->
+    <string name="message_elipses">Message...</string>
+    <string name="send">Send</string>
+
+
+</resources>

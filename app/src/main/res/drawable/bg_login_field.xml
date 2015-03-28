@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid
+        android:color="@android:color/white"/>
+
+    <corners
+        android:radius="@dimen/login_field_radius"/>
+
+    <padding
+        android:bottom="@dimen/login_field_padding"
+        android:left="@dimen/login_field_padding"
+        android:right="@dimen/login_field_padding"
+        android:top="@dimen/login_field_padding"/>
+
+</shape>
