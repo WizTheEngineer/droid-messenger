@@ -22,11 +22,15 @@ Once these accounts are setup you need to create an application on both platform
 
 Once this information has been imported you need to add a class with the name "Message" to your Parse database with the following columns.
 
-COLUMN-NAME               OBJECT-TYPE
-messageBody               String
-timeSent                  Date
-senderId                  String
-receiverId                String
+COLUMN-NAME--> OBJECT-TYPE
+
+"messageBody"--> String
+
+"timeSent"--> Date
+
+"senderId" --> String
+
+"receiverId"  --> String
 
 
 After this is complete and you have ensured the proper keys are entered. The application should build.
