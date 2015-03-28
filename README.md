@@ -33,7 +33,7 @@ COLUMN-NAME--> OBJECT-TYPE
 "receiverId"  --> String
 
 
-After this is complete and you have ensured the proper keys are entered. The application should build.
+After this is complete and you have ensured the proper keys are entered, the application should build.
 
 Sign up with a few mock users and test away.
 
