@@ -3,7 +3,7 @@ Instant Messaging App that uses Parse and Pubnub
 
 Whats up everyone!
 
-I wanted to learn how to take advantage of real time events using Parse so here is a little project I put together. A Parse and Pubnub account will be needed for this. If you are unfamiliar with the two services here are the respective URL's.
+I wanted to learn how to take advantage of real time events using Parse so here is an Android instant messenger I put together uses Parse and Pubnub. A Parse and Pubnub account will be needed for this. If you are unfamiliar with the two services here are the respective URL's.
 
 Pubnub: http://pubnub.com
 Parse: http://parse.com
