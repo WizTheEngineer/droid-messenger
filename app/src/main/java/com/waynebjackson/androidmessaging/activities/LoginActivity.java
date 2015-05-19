@@ -16,6 +16,7 @@ import com.parse.ParseUser;
 import com.parse.SignUpCallback;
 import com.waynebjackson.androidmessaging.MessagingApp;
 import com.waynebjackson.androidmessaging.R;
+import com.waynebjackson.androidmessaging.models.MessagingUser;
 
 public class LoginActivity extends ActionBarActivity implements View.OnClickListener {
     private static final String TAG = "LoginActivity";
@@ -79,7 +80,7 @@ public class LoginActivity extends ActionBarActivity implements View.OnClickList
         String userName = usernameField.getText().toString().trim();
         String password = passwordField.getText().toString();
 
-        ParseUser newUser = new ParseUser();
+        MessagingUser newUser = new MessagingUser();
         newUser.setUsername(userName);
         newUser.setPassword(password);
 
